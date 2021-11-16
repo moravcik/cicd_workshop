@@ -10,6 +10,11 @@
       "StackName": "amplify-enterprisengproject-dev-231434",
       "StackId": "arn:aws:cloudformation:eu-west-1:828628303537:stack/amplify-enterprisengproject-dev-231434/96835270-472a-11ec-966f-0671840570ef",
       "AmplifyAppId": "d22ba5oef1uh77"
+    },
+    "categories": {
+      "auth": {
+        "enterprisengproject08a1ebf3": {}
+      }
     }
   }
 }
